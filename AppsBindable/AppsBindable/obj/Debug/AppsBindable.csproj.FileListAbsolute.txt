@@ -1,0 +1,10 @@
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\AppsBindable\AppsBindable\AppsBindable\bin\Debug\AppsBindable.dll
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\AppsBindable\AppsBindable\AppsBindable\bin\Debug\AppsBindable.pdb
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\AppsBindable\AppsBindable\AppsBindable\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\AppsBindable\AppsBindable\AppsBindable\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\AppsBindable\AppsBindable\AppsBindable\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\AppsBindable\AppsBindable\AppsBindable\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\AppsBindable\AppsBindable\AppsBindable\obj\Debug\AppsBindable.csprojResolveAssemblyReference.cache
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\AppsBindable\AppsBindable\AppsBindable\obj\Debug\AppsBindable.dll
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\AppsBindable\AppsBindable\AppsBindable\obj\Debug\AppsBindable.pdb
+c:\users\vinicius.reis\documents\visual studio 2015\Projects\AppsBindable\AppsBindable\AppsBindable\obj\Debug\TestePage.xaml.g.cs
